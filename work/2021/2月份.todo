@@ -3,3 +3,5 @@
 
 2.19 Todos:
     [x] 给Jmeter压测 Thread Group 设置随机时间，进行测试。
+    [x] 写一篇 Jmeter 使用报告。
+    [x] 更新game-core修复天空盒问题，发新版本。
